@@ -9,3 +9,6 @@
 
 ## System Required
 * Net framework 4 or latest
+
+## Cara Menjalankan
+* Program ini portabel, hanya butuh Net framework 4
